@@ -1,0 +1,41 @@
+div{
+	margin: 0 auto;
+	width: 700px;
+	font-family: roboto;
+}
+h1{
+	font-size: 36px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+	border-bottom: groove;
+}
+h2{
+	font-size: 32px;
+	padding-top: 32px;
+	padding-bottom: 32px; 
+	margin-top: 40px;
+}
+.EersteParagraaf{
+	font-size: 24px;
+	padding: 32px;
+}
+.Ingrediënten{
+	margin: 5px auto;
+}
+.DeBereidingswijze{
+	margin: 10px auto;
+}
+u{
+	margin-left: 500px;
+}
+a{
+	padding: 20px;
+}
+img{
+	margin: 40px auto;
+}
+.Tip{
+	border-radius: 4px;
+	padding: 25px;
+	background-color: #def6ed;
+}
